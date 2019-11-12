@@ -1,0 +1,28 @@
+{
+  "name": "1-BasketballTurnBased",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fosterr334/1-BasketballTurnBased.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fosterr334/1-BasketballTurnBased/issues"
+  },
+  "homepage": "https://github.com/Fosterr334/1-BasketballTurnBased#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.10",
+    "morgan": "^1.9.1"
+  }
+}
