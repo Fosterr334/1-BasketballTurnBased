@@ -10,7 +10,6 @@ var hero =[
 },
 {
     health : 100,
-    choice : 1,
     attack : 5000,
     heal : 5000,
     defend : 5000,
